@@ -18,8 +18,6 @@ It provides quick and accurate responses using keyword matching techniques and c
 
 ![Chatbot Demo](images/output.png)
 
-> 🔁 Replace this image with your own screenshot after running the project
-
 ---
 
 ## 🚀 Features
