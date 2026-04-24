@@ -1,0 +1,34 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey"],
+      "response": "Hello! How can I help you?"
+    },
+    {
+      "tag": "class_timing",
+      "patterns": ["class timing", "when class starts", "college timing"],
+      "response": "Classes start at 9:00 AM and end at 4:00 PM."
+    },
+    {
+      "tag": "exam",
+      "patterns": ["exam date", "when exams", "semester exam"],
+      "response": "Semester exams are usually conducted in November and April."
+    },
+    {
+      "tag": "lab_rules",
+      "patterns": ["lab rules", "rules in lab", "computer lab rules"],
+      "response": "Lab rules: Maintain silence, no food allowed, follow instructor instructions."
+    },
+    {
+      "tag": "library",
+      "patterns": ["library time", "library timing"],
+      "response": "Library is open from 8:30 AM to 6:00 PM."
+    },
+    {
+      "tag": "hod",
+      "patterns": ["hod", "head of department"],
+      "response": "The HOD of CSE is Dr. XYZ."
+    }
+  ]
+}
